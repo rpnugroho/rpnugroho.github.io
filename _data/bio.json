@@ -6,7 +6,7 @@
     "email": "nugroho.rizkyp@gmail.com",
     "phone": "",
     "website": "https://rpnugroho.github.io",
-    "summary": "Enthusiastic physics graduate eager to contribute through hard work and attention to detail. Clear understanding of Machine Learning and Deep Learning. Familiar with TensorFlow, Scikit-learn, W&B, TFX and KubeFlow Pipeline. Motivated to learn, grow and excel in IT Industry.",
+    "summary": "Enthusiastic physics graduate eager to contribute through hard work and attention to detail. Clear understanding of Machine Learning and Deep Learning. Familiar with Scikit-learn, LightGBM, W&B, TensorFlow and KubeFlow Pipeline. Motivated to learn, grow and excel in IT Industry.",
     "location": {
       "address": "",
       "postalCode": "52212",
@@ -93,6 +93,14 @@
       "summary": "",
       "startDate": "2020-09-19",
       "endDate": "2022-09-19",
+      "highlights": []
+    },
+    {
+      "organization": "Microsoft",
+      "position": "Microsoft Azure Data Scientist Associate",
+      "summary": "",
+      "startDate": "2020-07-23",
+      "endDate": "2022-07-23",
       "highlights": []
     }
   ],

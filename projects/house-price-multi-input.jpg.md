@@ -6,7 +6,7 @@ title: House Price Multi Input
 projecturl: https://github.com/rpnugroho/house-price-multi-input
 permalink: projects/house-price-multi-input
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-15
+date: 2021-02-15
 labels:
   - TensorFlow
   - TFServing

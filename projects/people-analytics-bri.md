@@ -6,7 +6,7 @@ title: People Analytics-BRI Datahackathon
 projecturl: https://github.com/rpnugroho/people-analytics-bri
 permalink: projects/people-analytics-bri
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-09
+date: 2020-02-27
 labels:
   - Scikit-learn
   - LightGBM

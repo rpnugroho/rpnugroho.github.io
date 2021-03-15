@@ -9,5 +9,5 @@ permalink: projects/cassava-disease-classification
 date: 2020-12-15
 labels:
   - TensorFlow
-summary: Implement useful technique in images classification task to speed up training process and increase accuracy like image augmentation, mixed precision, bagging, test time augmentation.
+summary: Implement useful technique in images classification task to speed up training process and increase accuracy like image augmentation, mixed precision, bagging, and test time augmentation.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cassava-disease-tflite.jpg
+image: images/cassava-disease-tflite.jpeg
 title: Cassava Disease TFLite
 projecturl: https://github.com/rpnugroho/cassava-disease-tflite
 permalink: projects/cassava-disease-tflite

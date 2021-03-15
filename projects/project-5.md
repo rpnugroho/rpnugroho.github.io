@@ -4,7 +4,7 @@ type: project
 image: images/bussines-clustering-yogyakarta.png
 title: Bussines Clustering Yogyakarta
 projecturl: https://github.com/rpnugroho/bussines-clustering-yogyakarta
-permalink: projects/micromouse
+permalink: projects/bussines-clustering-yogyakarta
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-29
 labels:

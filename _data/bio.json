@@ -4,9 +4,9 @@
     "label": "ML Enthusiast",
     "picture": "https://rpnugroho.github.io/images/profile-pic.jpg",
     "email": "nugroho.rizkyp@gmail.com",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://rpnugroho.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "Enthusiastic physics graduate eager to contribute through hard work and attention to detail. Clear understanding of Machine Learning and Deep Learning. Familiar with TensorFlow, Scikit-learn, W&B, TFX and KubeFlow Pipeline. Motivated to learn, grow and excel in IT Industry.",
     "location": {
       "address": "",
       "postalCode": "52212",
@@ -78,11 +78,28 @@
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "TensorFlow",
+      "position": "TensorFlow Developer Certified",
+      "summary": "",
+      "startDate": "2020-10-07",
+      "endDate": "2023-10-07",
+      "highlights": []
+    },
+    {
+      "organization": "Microsoft",
+      "position": "Microsoft Azure AI Engineer Associate",
+      "summary": "",
+      "startDate": "2020-09-19",
+      "endDate": "2022-09-19",
+      "highlights": []
+    }
+  ],
   "awards": [
     {
       "title": "PPA Scholarship",
-      "date": "2013",
+      "date": "2018",
       "awarder": "Universitas Gadjah Mada",
       "summary": ""
     },

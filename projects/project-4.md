@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-# image: images/micromouse.jpg
+image: images/simple-knn-movie-recommendation .png
 title: Bussiness Clustering Yogyakarta
 permalink: https://github.com/rpnugroho/bussines-clustering-yogyakarta
 # All dates must be YYYY-MM-DD format!

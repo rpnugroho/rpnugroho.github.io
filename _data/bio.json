@@ -1,163 +1,96 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "name": "Rizky Pratama Nugroho",
+    "label": "ML Enthusiast",
+    "picture": "https://rpnugroho.github.io/images/profile-pic.jpg",
+    "email": "nugroho.rizkyp@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://rpnugroho.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "52212",
+      "city": "Brebes",
+      "countryCode": "Indonesia",
+      "region": "Jawa Tengah"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "rpnugroho",
+        "url": "http://github.com/rpnugroho"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "rizkypnugroho",
+        "url": "http://linkedin.com/in/rizkypnugroho"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Machine Learning",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Scikit-learn",
+        "LightGBM",
+        "Pandas",
+        "W&B"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Deep Learning",
       "keywords": [
+        "TensorFlow",
+        "TensorFlow Extended",
+        "Kubeflow Pipeline"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cloud",
       "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Microsoft Azure",
+        "Google Cloud"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Universitas Gadjah Mada, Sleman, DIY",
+      "area": "Physics (February, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2015-08-01",
+      "endDate": "2019-11-01",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Material and Instrumentation Physics Laboratory Assistant",
+      "position": "Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-08-01",
+      "endDate": "2019-12-01",
+      "summary": "Student laboratory assistant",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted and mentored students in groups of up to 4 during electronic and solid state physics experiments.",
+        "Took attendance, graded assignments and maintained student records."
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
+  "volunteer": [],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "PPA Scholarship",
+      "date": "2013",
+      "awarder": "Universitas Gadjah Mada",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Program Kreativitas Mahasiswa (PKM)",
+      "date": "2018",
+      "awarder": "Ministry of Research, Technology and Higher Education of the Republic of Indonesia",
+      "summary": ""
     }
   ],
   "references": [

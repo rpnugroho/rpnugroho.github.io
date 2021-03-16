@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/chicago-taxi-tips.jpg
-title: chicago-taxi-tips
+title: Chicago Taxi Tips
 projecturl: https://github.com/rpnugroho/chicago-taxi-tips
 permalink: projects/chicago-taxi-tips
 # All dates must be YYYY-MM-DD format!

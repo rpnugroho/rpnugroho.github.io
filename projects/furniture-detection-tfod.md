@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/house-price-multi-input.jpg
-title: House Price Multi Input
-projecturl: https://github.com/rpnugroho/house-price-multi-input
-permalink: projects/house-price-multi-input
+image: images/furniture-detection-tfod.png
+title: Furniture Detection TFOD
+projecturl: https://github.com/rpnugroho/furniture-detection-tfod
+permalink: projects/furniture-detection-tfod
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-29
 labels:

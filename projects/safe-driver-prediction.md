@@ -2,11 +2,11 @@
 layout: project
 type: project
 image: images/safe-driver-prediction.jpeg
-title: safe-driver-prediction
+title: Safe Driver Prediction-Kaggle
 projecturl: https://github.com/rpnugroho/safe-driver-prediction
 permalink: projects/safe-driver-prediction
 # All dates must be YYYY-MM-DD format!
-date: 2021-03-12
+date: 2021-03-09
 labels:
   - Scikit-learn
   - LightGBM

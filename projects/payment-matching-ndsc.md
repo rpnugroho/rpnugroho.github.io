@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/payment-matching-ndsc.png
-title: Payment Matching-NDSC
+title: Payment Matching - NDSC
 projecturl: https://github.com/rpnugroho/payment-matching-ndsc
 permalink: projects/payment-matching-ndsc
 # All dates must be YYYY-MM-DD format!

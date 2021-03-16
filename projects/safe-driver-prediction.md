@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/safe-driver-prediction.jpeg
-title: Safe Driver Prediction-Kaggle
+title: Safe Driver Prediction - Kaggle
 projecturl: https://github.com/rpnugroho/safe-driver-prediction
 permalink: projects/safe-driver-prediction
 # All dates must be YYYY-MM-DD format!

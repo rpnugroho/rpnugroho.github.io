@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/people-analytics-bri.png
-title: People Analytics-BRI Datahackathon
+title: People Analytics - BRI Datahackathon
 projecturl: https://github.com/rpnugroho/people-analytics-bri
 permalink: projects/people-analytics-bri
 # All dates must be YYYY-MM-DD format!

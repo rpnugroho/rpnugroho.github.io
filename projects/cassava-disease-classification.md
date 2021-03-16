@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cassava-disease-classification.jpg
-title: Cassava Disease Classification-Kaggle
+title: Cassava Disease Classification - Kaggle
 projecturl: https://github.com/rpnugroho/cassava-disease-classification
 permalink: projects/cassava-disease-classification
 # All dates must be YYYY-MM-DD format!

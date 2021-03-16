@@ -9,5 +9,5 @@ permalink: projects/payment-matching-ndsc
 date: 2020-10-10
 labels:
   - Competition
-summary: Solution for “NDSC payment matching” using recordlinkage library. This solution got 27th place in private leaderboard.
+summary: Solution for NDSC - Payment Matching using recordlinkage library. This solution got 27th place in private leaderboard.
 ---

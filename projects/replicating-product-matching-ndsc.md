@@ -11,5 +11,5 @@ labels:
   - TensorFlow
   - Fastext
   - LightGBM
-summary: Replicating 1st place solution of "Shopee NDSC product matching". ResNet50 and Fastext were used to extract image and title pairs, and LightGBM were used to predict if they are the same or different products.
+summary: Replicating 1st place solution of NDSC-Product Matching. ResNet50 and Fastext were used to extract image and title pairs, and LightGBM were used to predict if they are the same or different products.
 ---

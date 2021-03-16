@@ -10,5 +10,5 @@ date: 2021-02-27
 labels:
   - Scikit-learn
   - LightGBM
-summary: 31st place solution for "BRI Datahackathon peoples analytics category". LightGBM was used with model bagging technique. Final AUC score is 56.3%.
+summary: 31st place solution for BRI Datahackathon - People Analytics. LightGBM was used with model bagging technique. Final AUC score is 56.3%.
 ---
